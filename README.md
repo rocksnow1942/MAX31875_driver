@@ -1,6 +1,9 @@
 # MAX31875_driver
 Python driver for I2c temperature sensor MAX31875
 
+The script is tested working on Raspberry Pi Zero W and Pi 4B
+
+
 Require smbus2 ^0.4.1 
 
 - [smbus2 Homepage](https://pypi.org/project/smbus2/)
